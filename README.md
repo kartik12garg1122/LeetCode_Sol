@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0002-add-two-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -33,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0151-reverse-words-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
