@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
