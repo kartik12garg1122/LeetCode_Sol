@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 ## Data Stream
 |  |
 | ------- |
@@ -75,9 +77,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Simulation
 |  |
@@ -87,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
