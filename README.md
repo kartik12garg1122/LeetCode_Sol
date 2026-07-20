@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
