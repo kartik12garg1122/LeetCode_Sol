@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0014-longest-common-prefix) |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Trie
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 ## Data Stream
@@ -76,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Simulation
@@ -94,9 +98,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
