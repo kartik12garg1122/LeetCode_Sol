@@ -18,6 +18,7 @@ class Solution {
             int val=q.poll();
             ans[i]=val;
         }
+        System.gc();
         return ans;
     }
 }
