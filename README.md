@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -119,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
