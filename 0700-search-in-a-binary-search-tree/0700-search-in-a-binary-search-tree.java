@@ -15,7 +15,7 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        ArrayList<Integer>arr=new ArrayList<>();
+       
         if(root==null)return null;
         while(root!=null && root.val!=val){
             if(root.val<val){
