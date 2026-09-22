@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3046-split-the-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/3046-split-the-array) |
 ## Data Stream
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
