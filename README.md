@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3046-split-the-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/3046-split-the-array) |
 ## Trie
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -228,9 +230,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
