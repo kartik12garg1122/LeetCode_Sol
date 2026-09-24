@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0002-add-two-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3046-split-the-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/3046-split-the-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
 | ------- |
