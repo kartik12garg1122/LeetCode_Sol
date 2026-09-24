@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0014-longest-common-prefix) |
 | [0200-number-of-islands](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Lifting
 |  |
