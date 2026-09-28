@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0035-search-insert-position) |
 | [0200-number-of-islands](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0035-search-insert-position) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
