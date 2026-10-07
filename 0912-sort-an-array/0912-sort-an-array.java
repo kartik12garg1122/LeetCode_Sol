@@ -7,7 +7,7 @@ class Solution {
     }
     void split(int[]nums,int low,int high){
         if(low==high)return;
-        int mid=(low+high)/2;
+        int mid=low+(high-low)/2;
         split(nums,low,mid);
         split(nums,mid+1,high);
         merge(nums,low,mid,high);
