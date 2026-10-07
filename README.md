@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Simulation
 |  |
@@ -123,15 +125,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -255,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
