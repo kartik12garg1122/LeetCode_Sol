@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0796-rotate-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
