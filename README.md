@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0455-assign-cookies) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
