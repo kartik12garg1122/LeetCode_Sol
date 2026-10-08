@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0950-reveal-cards-in-increasing-order) |
