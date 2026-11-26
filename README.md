@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0055-jump-game) |
+| [0090-subsets-ii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0455-assign-cookies) |
@@ -286,9 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/kartik12garg1122/LeetCode_Sol/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
